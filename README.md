@@ -1,7 +1,5 @@
 # Heleme privacy and support
 
-Public bilingual pages maintained by Fenrir Chengdu Inc. Updated for 3.0 on 2026-11-03. Features depend on installed version and platform availability.
-
-Deploy GitHub Pages from main root. No app source, user records, credentials or signing artifacts.
+Bilingual public help and privacy pages by Fenrir Chengdu Inc., updated for 3.1 on 2026-11-08. Deploy GitHub Pages from main root. This repository contains no app source, user records, credentials, signing artifacts or store screenshots.
 
 Contact: support@fenrir-inc.com.cn
