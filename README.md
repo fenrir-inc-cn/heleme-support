@@ -1,5 +1,7 @@
 # Heleme privacy and support
 
-Bilingual public help and privacy pages by Fenrir Chengdu Inc., updated for 3.1 on 2026-11-08. Deploy GitHub Pages from main root. This repository contains no app source, user records, credentials, signing artifacts or store screenshots.
+Bilingual privacy/help source for iPhone 4.0, updated 2026-11-16. Covers offline speech, appearance styles, historical goals and backups; Mac features remain version-specific.
+
+This update is on `codex/4.0-docs` only. GitHub Pages uses `main` root: do not merge or deploy until separately authorized. No app source, user records, credentials, signing artifacts or screenshots are included.
 
 Contact: support@fenrir-inc.com.cn
